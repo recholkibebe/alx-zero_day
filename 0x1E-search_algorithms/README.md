@@ -1,4 +1,4 @@
-This is an algorithim file that helps guide ;
+This is a file that help define;
 What is a search algorithm
 What is a linear search
 What is a binary search
